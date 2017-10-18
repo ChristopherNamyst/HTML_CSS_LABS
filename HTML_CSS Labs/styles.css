@@ -1,0 +1,83 @@
+body {
+	background-color: #f9fafc;
+	font-family: open sans;
+	Font-weight: normal
+}
+.navbar{
+    position: relative;
+}
+
+
+
+h1{
+position:absolute;left:20px;top:130px;
+}
+
+
+
+p {
+	position:absolute;left:20px;top:200px;
+	margin-left: 14px;
+  width: 500px;
+  word-wrap:normal;
+}
+
+a {
+		color: #69696a;
+        text-decoration: none;
+		padding-left: 15px;
+		text-align: right;
+  	    position:relative;left:900px;top:2px
+}
+
+.button {
+	 color: #f9fafc;
+	 border-radius: 20px;
+	 border: 2px solid #000;
+	 padding: 5px;
+	 width: 50px;
+	 height: 50px;
+	 background-color: black;
+ }
+.button2{
+    position:absolute; bottom: 20px;
+	color: #f9fafc;
+	background-color: black;
+	border-radius: 20px;
+	font-size: 10px;
+    padding: 10px;
+    
+}
+ #circle1 {
+    background: rgba(247, 136, 167, 0.8);
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+     position:relative;left:600px;top:140px
+
+
+}
+#circle2 {
+	 background: rgba(247, 193, 162, 0.8);
+	 width: 170px;
+	 height: 170px;
+	 border-radius: 50%;
+	 position:relative;left:780px;top:10px
+}
+
+#circle3 {
+	 background: rgba(207, 130, 213, 0.8);
+	 width: 100px;
+	 height: 100px;
+	 border-radius: 50%;
+	 position:relative;left:820px;top:-240px
+}
+
+
+#rectangle {
+	width: 2px;
+	height: 105px;
+	background: #69696a;
+	position:absolute;left:20px;top:220px;
+
+}
